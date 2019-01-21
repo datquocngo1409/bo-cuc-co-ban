@@ -1,0 +1,136 @@
+.logo{
+  background: red;
+  width: 15%;
+  height: 80px;
+  float: left;
+  clear: both;
+}
+
+.banner{
+  background: pink;
+  width: 85%;
+  height: 80px;
+  float: left;
+}
+
+.home{
+  background: yellow;
+  width: 100%;
+  height: 30px;
+  clear: both;
+  position: relative;
+}
+
+.choose{
+  background: #b3d4fc;
+  width: 100%;
+  height: 50%;
+  clear: top;
+  float: left;
+}
+
+.hotnews{
+  background: darkgreen;
+  width: 50%;
+  height: 34%;
+  clear: top;
+  clear: bottom;
+  float: left;
+}
+
+.photo{
+  background: red;
+  width: 50%;
+  height: 34%;
+  clear: top;
+  clear: bottom;
+  float: left;
+}
+
+.news{
+  background: cornflowerblue;
+  width: 70%;
+  height: 1000px;
+  clear: top;
+  float: left;
+}
+
+.choosearea{
+  background: lime;
+  width: 10%;
+  height: 800px;
+  clear: top;
+  float: left;
+}
+
+.news1{
+  background: blueviolet;
+  width: 33%;
+  height: 33%;
+  clear: top;
+  float: left;
+}
+
+.news2{
+  background: darkgrey;
+  width: 33%;
+  height: 33%;
+  clear: top;
+  float: left;
+}
+
+.news3{
+  background: deepskyblue;
+  width: 34%;
+  height: 33%;
+  clear: top;
+  float: left;
+}
+
+.news4{
+  background: lightgreen;
+  width: 33%;
+  height: 33%;
+  clear: top;
+  float: left;;
+}
+
+.news5{
+  background: red;
+  width: 33%;
+  height: 33%;
+  clear: top;
+  float: left;
+}
+
+.news6{
+  background: lime;
+  width: 34%;
+  height: 33%;
+  clear: top;
+  float: left;
+}
+
+.choose2{
+  background: fuchsia;
+  width: 100%;
+  height: 50%;
+  clear: top;
+  float: left;
+}
+
+.calender{
+  background: burlywood;
+  width: 20%;
+  height: 1200px;
+  clear: top;
+  clear: right;
+  float: left;
+}
+
+.footer{
+  background: fuchsia;
+  width: 100%;
+  height: 30px;
+  clear: both;
+}
